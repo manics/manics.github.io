@@ -6,14 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-description:      Base theme for Jekyll themes by @mdo.
-url:              http://getpoole.com
+title:            Manic Ravings
+tagline:          I am nothing and should be everything
+description:      Anything
+url:              http://manics.github.io
 
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
+  name:           Simon Li
+  url:            https://twitter.com/crucifixkiss
 
 paginate:         1
 
@@ -21,4 +21,4 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/manics/manics.github.io
